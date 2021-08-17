@@ -8,7 +8,6 @@
 
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/windows/32/000000/figma.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/>
 <img  src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/>
 
 ![Annie's github stats](https://github-readme-stats.vercel.app/api?username=Carolinacm7&show_icons=true&theme=tokyonight)
