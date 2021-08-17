@@ -5,39 +5,31 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-### Hi there,I am Ximena Chitiva  👋
 
-**🌱 I’m currently learning about Front-End Development.**
-**🎨 I’m looking to collaborate, work and learn about any educational, literature and design project.**
 
-**Click here** [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://dianaximenacm.github.io/Portfolio/)**to see my portfolio where you can find more about me...**
+Hola Soy Annie Carolina  👋
+🔭 Actualmente estoy aprendiendo sobre Desarrollo Front-End.
+🌱 Busco colaborar, trabajar y aprender sobre cualquier proyecto de diseño.
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/sass.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/windows/32/000000/figma.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/><img src="https://img.icons8.com/windows/32/000000/npm.png"/><img src="https://img.icons8.com/color/48/000000/angularjs.png"/><img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img src="https://img.icons8.com/material/48/000000/heroku.png"/>
 
-![Diana's github stats](https://github-readme-stats.vercel.app/api?username=Carolinacm7&show_icons=true&theme=tokyonight)
+Click aqui [<img src=""/>](/)para ver mi portafolio donde puedes encontrar más sobre mí...
+
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/windows/32/000000/figma.png"/><img src="https://img.icons8.com/color/48/000000/media-queries.png"/><img  src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/><img 
+
+![Annie's github stats](https://github-readme-stats.vercel.app/api?username=Carolinacm7&show_icons=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carolinacm7&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-**💬 Ask me about whatever you want**
-**📫 How to reach me:**
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> ](https://www.linkedin.com/in/dianximenacm/ )
-[<img src="https://img.icons8.com/color/48/000000/twitter-circled.png"/>](https://twitter.com/dianaximenacm) 
-[<img src="https://img.icons8.com/color/48/000000/codepen.png"/>](https://codepen.io/dianaximenacm)
+💬 Ask me about whatever you want
+📫 How to reach me:
+[<img src="> ]( )
+[<img src="") 
 
-<!--
-**dianaximenacm/Dianaximenacm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 
 
