@@ -1,6 +1,7 @@
 ### Hola Soy Annie Carolina  👋
 
-**🔭 Actualmente estoy aprendiendo sobre Desarrollo Front-End.**
+**🔭 Actualmente estoy aprendiendo sobre Desarrollo Front-End.** 
+
 **🌱 Busco colaborar, trabajar y aprender sobre cualquier proyecto de diseño.**
 
 **Click aqui**[<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://dianaximenacm.github.io/Portfolio/)**para ver mi portafolio donde puedes encontrar más sobre mí....**
@@ -19,13 +20,14 @@
 
 **📫 Cómo contactar conmigo:**
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/> ](https://www.linkedin.com/in/anniecarolinacm/ )
 
 
 
 
 
 
-**Carolinacm7/Carolinacm7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ![Annie's github stats](https://github-readme-stats.vercel.app/api?username=Carolinacm7&show_icons=true&theme=tokyonight)
 
