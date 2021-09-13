@@ -4,7 +4,7 @@
 
 **🌱 Busco colaborar, trabajar y aprender sobre cualquier proyecto de diseño.**
 
-**Click aqui**[<img src=""/>]()**para ver mi portafolio donde puedes encontrar más sobre mí....**
+
 
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
