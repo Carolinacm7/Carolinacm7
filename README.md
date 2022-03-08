@@ -1,4 +1,4 @@
-### Hola Soy Annie Carolina  👋
+### Hola Soy Carolina  👋
 
 **🔭 Actualmente estoy aprendiendo sobre Desarrollo Front-End.** 
 
