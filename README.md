@@ -9,6 +9,8 @@
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color-glass/96/ruby-programming-language.png"/>
+
 <img  src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/>
 <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
 
