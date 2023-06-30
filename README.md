@@ -8,8 +8,8 @@
 
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css"/><img src="https://icons8.com/icon/W0YEwBDDfTeu/figma"/>
-<img src="https://icons8.com/icon/108784/javascript"/><img src="https://icons8.com/icon/22189/ruby-programming-language"/>
+<img src="https://img.icons8.com/color/tailwindcss.png"/><img src="https://img.icons8.com/color/figma.png"/>
+<img src="https://img.icons8.com/color/108784/javascript.png"/><img src="https://img.icons8.com/color/ruby-programming-language.png"/>
 <img  src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/>
 <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
 
