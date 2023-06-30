@@ -7,7 +7,9 @@
 *Click aquí* [<img src="https://img.icons8.com/nolan/64/moleskine.png"/>](https://carolinacm7.github.io/Portafolio/)**mira mi portafolio donde puede encontrar más información sobre mí...**
 
 
-<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css"/><img src="https://icons8.com/icon/W0YEwBDDfTeu/figma"/> <img src="https://icons8.com/icon/108784/javascript"/><img src="https://icons8.com/icon/22189/ruby-programming-language"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css"/><img src="https://icons8.com/icon/W0YEwBDDfTeu/figma"/>
+<img src="https://icons8.com/icon/108784/javascript"/><img src="https://icons8.com/icon/22189/ruby-programming-language"/>
 <img  src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/>
 <img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
 
