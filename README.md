@@ -8,10 +8,9 @@
 
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/tailwindcss.png"/><img src="https://img.icons8.com/color/48/figma.png"/>
-<img src="https://img.icons8.com/color/48/108784/javascript.png"/><img src="https://img.icons8.com/color/48/ruby-programming-language.png"/>
+<img src="https://img.icons8.com/color/48/tailwindcss.png"/><img src="https://img.icons8.com/color/48/108784/javascript.png"/><img src="https://img.icons8.com/color/48/ruby-programming-language.png"/>
 <img  src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-<img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/>
+<img src="https://img.icons8.com/color/50/000000/adobe-photoshop--v1.png"/><img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/><img src="https://img.icons8.com/color/46/figma.png"/>
 
 
 ![Annie's github stats](https://github-readme-stats.vercel.app/api?username=Carolinacm7&show_icons=true&theme=tokyonight)
